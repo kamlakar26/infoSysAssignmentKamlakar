@@ -1,0 +1,2 @@
+github "Alamofire/AlamofireImage" ~> 4.1
+github "SnapKit/SnapKit" ~> 5.0.0
